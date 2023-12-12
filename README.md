@@ -11,7 +11,7 @@ O problema que vamos apresentar não tem uma lógica complexa, mas implemente se
 
 ## :computer: Tecnologias
 
-1. Nossa stack de desenvolvimento é predominantemente C# e Java, então nossa sugestão é que você utilize .NET Core para C# ou Spring para Java.
+1. Nossa stack de desenvolvimento é predominantemente C#, então nossa sugestão é que você utilize .NET Core para C#.
 2. Teste seu código, crie Unit tests e/ou Integration tests.
 3. A aplicação deve ser self contained, use um database em memória, por exemplo o H2 no caso do Spring. 
 
@@ -325,5 +325,5 @@ Crie um arquivo chamado `instructions.md` com todas as informações necessária
 
 Para enviar seu código, você pode:
 
-* Enviar a URL do seu repositório para a pessoa responsável pelo seu processo seletivo dentro do ME.
+* Enviar a URL do seu repositório para a pessoa responsável pelo seu processo seletivo dentro do Parfois.
 * Fazer um fork deste repositório, criar uma branch com o seu nome, enviar um pull request e nos notificar.
