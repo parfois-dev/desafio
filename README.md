@@ -1,4 +1,4 @@
-<img src="transferir.svg" width="200" alt="Parfois">
+<img src="transferir.png" width="200" alt="Parfois">
 # Back-end Challenge
 
 Bem-vindo(a) ao nosso teste para desenvolvedores(as) back-end.
