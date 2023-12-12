@@ -1,3 +1,4 @@
+<img src="parfois.svg" width="200" alt="ME">
 # Back-end Challenge
 
 Bem-vindo(a) ao nosso teste para desenvolvedores(as) back-end.
